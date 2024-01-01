@@ -1,0 +1,6 @@
+*** my first readme file ***
+# C PROJECTS
+# JAVASCRIPT PROJECTS
+# PYTHON PROJECTS
+# WEB-APPS 
+

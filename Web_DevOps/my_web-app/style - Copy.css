@@ -1,0 +1,67 @@
+body{
+	background-color: rgb(0, 0, 0);	
+	color: gold;
+}
+header{
+	font-size: 300%;
+	background-color: rgb(250, 100, 50);
+	border: 5px solid rgb(250, 150, 40);
+}
+#nav{
+	font-size: 150%;
+	width: 180px;
+	height: 600px;
+	float: left;
+	background-color: gold;
+}
+.list{
+ 	list-style: none;
+}
+li{
+	
+	transition: all 0.5s;
+}
+li:hover{
+	border: 20px;
+	box-shadow: rgb( 0, 0, 0, 0.9) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+a{
+	color:rgb(250, 100, 50);
+	text-decoration: none;
+	border: 20px;
+}
+#content{
+	font-size: 150%;
+	width: 900px;
+	height: 600px;
+	float: right;
+}
+#bottom{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+h1{
+	background-color:rgb(0, 0, 0);
+}
+p{
+	background-color: ;
+	color: white;
+}
+p:hover{
+	background-color: gold;
+	color: yellow;
+}
+.boo{
+	padding: 20px;
+	transition: all 1s;
+}
+.boo:hover{
+	transform: rotate(7deg);
+}
+footer{
+	font-size: 300%;
+	clear: both;
+	background-color: rgb(250, 100, 50);
+	border: 5px solid rgb(250, 170, 40);
+}
